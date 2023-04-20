@@ -1,0 +1,54 @@
+baseURL = 'http://sagami.one/'
+languageCode = 'ja'
+title = 'さがみ産業医事務所'
+theme = "hugo-tranquilpeak-theme"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[author]
+  name = "さがみ産業医事務所"
+  location = "Tokyo, Japan"
+  job = "Good Condition Doctor"
+  gravatarEmail = "office@sagami.one"
+
+[permalinks]
+  post = "/:year/:month/:day/"
+
+[params]
+  sidebarBehavior = 2
+  thumbnailImage = true
+  dateFormat = "2006-01-02"
+  thumbnailImagePosition = "left"
+  autoThumbnailImage = true
+  coverImage = "https://images.unsplash.com/photo-1604928141064-207cea6f571f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
+  imageGallery = true
+  hierarchicalCategories = true
+  syntaxHighlighter = 'highlight.js'
+  
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/index.html"
+[[menu.main]]
+  weight = 4
+  identifier = "greeting"
+  name = "ごあいさつ"
+  pre = "<i class=\"sidebar-button-icon fa fa-heart\" aria-hidden=\"true\"></i>"
+  url = "/posts/greeting/"
+
+[[menu.links]]
+  weight = 3
+  identifier = "github"
+  name = "研修講演"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+  
+  url = "https://github.com/ToruSagami/public_me/#%E8%AC%9B%E5%B8%AB%E5%AE%9F%E7%B8%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E8%AC%9B%E7%BF%92%E4%BC%9A%E5%AD%A6%E7%94%9F%E8%AC%9B%E7%BE%A9"
+  
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
