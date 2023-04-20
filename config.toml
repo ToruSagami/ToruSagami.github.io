@@ -1,4 +1,4 @@
-baseURL = 'http://sagami.one/'
+baseURL = 'https://torusagami.github.io/'
 languageCode = 'ja'
 title = 'さがみ産業医事務所'
 theme = "hugo-tranquilpeak-theme"
