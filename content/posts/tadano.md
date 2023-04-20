@@ -1,7 +1,7 @@
 ---
 title: "ただの産業医じゃない。合同会社さがみ産業医事務所です"
 date: 2023-03-28
-weight: 1
+weight: 2
 showDate: false
 ---
 
