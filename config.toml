@@ -1,5 +1,7 @@
+baseURL = "https://torusagami.github.io/"
 languageCode = 'ja'
 title = 'さがみ産業医事務所'
+enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
