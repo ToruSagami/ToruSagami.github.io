@@ -1,13 +1,11 @@
-baseURL = "https://torusagami.github.io/"
+baseURL = "https://sagami.one/"
 languageCode = 'ja'
 title = 'さがみ産業医事務所'
 enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-paginate = 7              # Number of articles displayed on the homepage
-paginateOriginalStyle = true
-
+paginate = 7              # 
 [author]
   name = "さがみ産業医事務所"
   location = "Tokyo, Japan"
@@ -28,10 +26,7 @@ paginateOriginalStyle = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
   #
-	keywords = ["Minetest", "Dresden", "Projekt", "Bildung", "minetest4kids"]
-	description = "minetest4kids Projektseite"
-	toc = true                                                                         
-	photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe          
+	keywords = ["産業医", "東京", "労働衛生コンサルタント", "交代", "専門"]
 
 [[menu.main]]
   weight = 1
