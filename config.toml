@@ -5,6 +5,8 @@ enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+paginate = 7              # Number of articles displayed on the homepage
+paginateOriginalStyle = true
 
 [author]
   name = "さがみ産業医事務所"
@@ -25,7 +27,12 @@ hasCJKLanguage = true
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
-  
+  #
+	keywords = ["Minetest", "Dresden", "Projekt", "Bildung", "minetest4kids"]
+	description = "minetest4kids Projektseite"
+	toc = true                                                                         
+	photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe          
+
 [[menu.main]]
   weight = 1
   identifier = "home"
