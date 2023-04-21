@@ -9,7 +9,8 @@ paginate = 7              #
 [author]
   name = "さがみ産業医事務所"
   location = "Tokyo, Japan"
-  job = "Good Condition Doctor"
+
+  bio = "Good Condition Doctor"
   gravatarEmail = "office@sagami.one"
 
 [permalinks]
