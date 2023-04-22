@@ -5,7 +5,7 @@ enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-paginate = 7              # 
+paginate = 7
 [author]
   name = "さがみ産業医事務所"
   location = "Tokyo, Japan"
@@ -29,7 +29,7 @@ paginate = 7              #
   #
 	keywords = ["産業医", "東京", "労働衛生コンサルタント", "交代", "専門"]
 # https://gkzz.dev/posts/google-analytics-v4-implementation-in-hugo/
-    googleAnalyticsID = G-R93E5M3SZR 
+    googleAnalyticsID = "G-R93E5M3SZR" 
 [[menu.main]]
   weight = 1
   identifier = "home"
