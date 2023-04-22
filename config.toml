@@ -1,6 +1,6 @@
 baseURL = "https://office.sagami.one/"
 languageCode = 'ja'
-title = 'さがみ産業医事務所'
+title = 'さがみ産業医事務所 | 魅力ある組織を作る産業医'
 enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
@@ -37,11 +37,19 @@ paginate = 7
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/index.html"
 [[menu.main]]
-  weight = 2
+  weight = 3
   identifier = "greeting"
   name = "ごあいさつ"
   pre = "<i class=\"sidebar-button-icon fa fa-heart\" aria-hidden=\"true\"></i>"
   url = "/posts/greeting/"
+
+[[menu.main]]
+  weight = 1
+  identifier = "tadano"
+  name = "当社の強み"
+  pre = "<i class=\"sidebar-button-icon fa fa-star\" aria-hidden=\"true\"></i>"
+  url = "/posts/tadano/"
+
 
 [[menu.links]]
   weight = 3
