@@ -56,7 +56,7 @@ paginate = 7
   identifier = "github"
   name = "研修講演"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/ToruSagami/public_me/#%E8%AC%9B%E5%B8%AB%E5%AE%9F%E7%B8%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E8%AC%9B%E7%BF%92%E4%BC%9A%E5%AD%A6%E7%94%9F%E8%AC%9B%E7%BE%A9"
+  url = "public_me/#%E8%AC%9B%E5%B8%AB%E5%AE%9F%E7%B8%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E8%AC%9B%E7%BF%92%E4%BC%9A%E5%AD%A6%E7%94%9F%E8%AC%9B%E7%BE%A9"
 
 [markup]
   [markup.goldmark]
