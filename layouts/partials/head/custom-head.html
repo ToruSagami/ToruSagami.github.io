@@ -1,0 +1,6 @@
+<!-- Analytics -->
+{{ if .Site.IsServer }}
+  {{ if .Site.Params.GoogleAnalyticsID }}
+  {{ partial "google/analytics" . }}
+  {{ end }}
+{{ end }}

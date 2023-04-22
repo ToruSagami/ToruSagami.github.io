@@ -28,7 +28,9 @@ paginate = 7              #
   syntaxHighlighter = 'highlight.js'
   #
 	keywords = ["産業医", "東京", "労働衛生コンサルタント", "交代", "専門"]
-
+# https://gkzz.dev/posts/google-analytics-v4-implementation-in-hugo/
+  googole
+    googleAnalyticsID = G-R93E5M3SZR 
 [[menu.main]]
   weight = 1
   identifier = "home"
