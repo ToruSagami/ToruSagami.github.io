@@ -1,4 +1,4 @@
-baseURL = "https://office.sagami.one/"
+baseURL = "https://sagami.one/"
 languageCode = 'ja'
 title = 'さがみ産業医事務所'
 enableEmoji = true
