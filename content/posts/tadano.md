@@ -3,8 +3,6 @@ title: "ただの産業医じゃない。合同会社さがみ産業医事務所
 date: 2023-03-28
 weight: 2
 showDate: false
-eyecatch: "https://images.unsplash.com/photo-1494790108377-be9c29b29330w=150"
-
 ---
 
 ## 当社の強み:cherry_blossom:
