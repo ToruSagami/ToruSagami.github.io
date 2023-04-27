@@ -6,10 +6,10 @@ theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 paginate = 7
+
 [author]
   name = "さがみ産業医事務所"
   location = "Tokyo, Japan"
-
   bio = "Good Condition Doctor"
   gravatarEmail = "office@sagami.one"
 
@@ -27,9 +27,11 @@ paginate = 7
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
   #
-	keywords = ["産業医", "東京", "労働衛生コンサルタント", "交代", "専門"]
+	keywords = ['産業医', '東京', '労働衛生コンサルタント', '交代', '専門']
 # https://gkzz.dev/posts/google-analytics-v4-implementation-in-hugo/
-    googleAnalytics = "G-R93E5M3SZR" 
+  googleAnalytics = 'G-R93E5M3SZR' 
+  customCSS= ["default", "/css/mystyle.css"]
+
 [[menu.main]]
   weight = 1
   identifier = "home"
@@ -61,4 +63,4 @@ paginate = 7
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+  unsafe = true
