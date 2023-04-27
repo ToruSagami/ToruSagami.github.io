@@ -5,7 +5,7 @@ weight: 19
 showDate: false
 ---
 
-## Good Condition Doctor
+## Good Condition Doctor :sparkles:
 
 ### 略歴
 - 放射線診断専門医であり、大学病院での臨床経験を有する。前職では、国立がん研究センターで全国がん登録の研究員としてデータベース研究を経験。

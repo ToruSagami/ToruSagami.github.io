@@ -57,12 +57,6 @@
         <link rel="stylesheet" href="{{ . | absURL }}">
       {{ end }}
     {{ end }}
-
-    {{ if or .Params.googleAnalytics.async .Params.ga.async }}
-      {{ template "_internal/google_analytics_async.html" . }}
-    {{ else }}
-      {{ template "_internal/google_analytics.html" . }}
-    {{ end }}
     {{ partial "head_end.html" . }}
   </head>
 
@@ -72,3 +66,6 @@
     mermaid.initialize({ startOnLoad: true });
   </script>
 {{ end }}
+{{- if .Site.GoogleAnalytics }}
+    {{ template "_internal/google_analytics.html" . }}
+{{- end}}
