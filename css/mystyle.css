@@ -12,11 +12,12 @@
   #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-job,
   #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-location 
   {
-    color: #fffffff;
+    color: #ffffff;
   }
 }
 
 
 *, p, h1, h2, h3, h4, h5, h6 {
-	font-family: 'メイリオ', 'Meiryo','ＭＳ ゴシック','Hiragino Kaku Gothic ProN', 'Kosugi', sans-serif;
+   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ','Meiryo','ＭＳ Ｐゴシック',sans-serif;
+
 }
