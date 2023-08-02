@@ -1,5 +1,5 @@
 ---
-title: "当社の強み|さがみ産業医事務所"
+title: "当社の強み さがみ産業医事務所"
 date: 2023-03-28
 weight: 2
 showDate: false
