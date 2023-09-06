@@ -1,5 +1,5 @@
 ---
-title: 動画制作・企画・監修 | さがみ産業医事務所 | 東京
+title: 動画制作・企画・監修 
 date: 2023-03-28
 weight: 17
 showDate: false
