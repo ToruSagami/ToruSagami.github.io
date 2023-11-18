@@ -24,7 +24,7 @@ paginate = 6
   googleAnalytics = 'G-0R60H25J3D' 
   customCSS= ["default", "/css/mystyle.css"]
 
-[params.author]
+[author]
   name = "さがみ産業医事務所"
   location = "Tokyo, Japan"
   bio = "Good Condition Doctor"
