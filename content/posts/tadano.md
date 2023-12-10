@@ -1,8 +1,10 @@
----
-title: "当社の強み さがみ産業医事務所"
+﻿---
+title: "当社の強み"
 date: 2023-03-28
 weight: 2
 showDate: false
+thumbnailImagePosition: left
+thumbnailImage: img/strength_icon_big.svg
 ---
 
 ## 実績・経験豊富
@@ -47,4 +49,4 @@ showDate: false
   - 20-60歳代が健康を維持しながら「活躍」することが必要
 - 医師は病気の専門家。健康の専門家である保証なし…
 
-![](https://source.unsplash.com/random/?nature/)
+![](https://source.unsplash.com/random/?nature/?q=75&w=750&auto=format&fit=crop)

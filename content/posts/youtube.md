@@ -3,6 +3,8 @@ title: 動画制作・企画・監修
 date: 2023-03-28
 weight: 17
 showDate: false
+thumbnailImagePosition: left
+thumbnailImage: img/movie_icon_big.svg
 ---
 
 ### サンプル動画 **YouTube** 限定公開中

@@ -1,0 +1,53 @@
+{{ partial "head.html" . }}
+  <body>
+    <div id="blog">
+      {{ partial "header.html" . }}
+      {{ partial "sidebar.html" . }}
+      {{ partial "post/header-cover.html" . }}
+            
+      <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
+        class="{{ with .Params.coverimage }}hasCover{{ end }}
+               {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
+               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+ 
+ 
+        <article class="post" id="top">
+<!--         {{ with .Params.covercaption }}
+            <span class="post-header-cover-caption caption">{{ . | markdownify }}</span>
+          {{ end }}
+          {{ if or (not .Params.coverimage) (eq .Params.covermeta "out") }}
+            {{ partial "post/header.html" . }}
+          {{ end }}
+-->
+
+<!--
+<h1 class="post-header main-content-wrap post-title"><span style="margin-left: -0.5em">「みんなの健康を考える」産業医 </span><br> さがみ産業医事務所 東京 </h1> -->
+	
+
+
+
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+<img style="width:30em; max-width: 100%; padding-bottom: 23px;" src="./img/tytle_maru-go.svg"/> 
+              {{ .Content }}
+            </div>
+          </div>
+        </article>
+
+        <section class="postShorten-group main-content-wrap">
+
+<p style="height: 3em"></p>
+
+          {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections ) }}
+        	{{ range $paginator.Pages }}
+        	<span {{ if (strings.Contains .Page "lecture") }} class="without_line"{{ end }}>
+            	{{ .Render "summary" }}
+            </span>
+          {{ end }}
+          {{ partial "pagination.html" . }}
+        </section>
+        {{ partial "footer.html" . }}
+      </div>
+    </div>
+    
+    {{ partial "foot.html" . }}

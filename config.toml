@@ -1,6 +1,6 @@
-baseURL = "https://sagami.one/"
+baseURL = "https://sagami.one/" #
 languageCode = 'ja'
-title = 'さがみ産業医事務所 | 魅力ある組織を作る産業医'
+title = 'さがみ産業医事務所'  # さがみ産業医事務所 | 魅力ある組織を作る産業医
 enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
@@ -16,48 +16,81 @@ paginate = 6
   dateFormat = "2006-01-02"
   thumbnailImagePosition = "left"
   autoThumbnailImage = true
-  coverImage = "https://images.unsplash.com/photo-1604928141064-207cea6f571f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
+#  coverImage = "https://images.unsplash.com/photo-1604928141064-207cea6f571f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8?q=75&w=1280&auto=format&fit=crop"
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
 	keywords = ['産業医', '東京', '労働衛生コンサルタント', '専門']
-  googleAnalytics = 'G-0R60H25J3D' 
-  customCSS= ["default", "/css/mystyle.css"]
+  favicon = "img/favicon.png"
+  
+  googletagID = 'G-0R60H25J3D'
+
+  [[params.customCSS]]
+        href = "css/mystyle_v4.css"
+        
+  [params.header.rightLink]
+    class = ""
+    icon = ""
+    url = "#about" 
 
 [author]
   name = "さがみ産業医事務所"
+  slogan = "魅力ある組織を作る産業医"
   location = "Tokyo, Japan"
-  bio = "Good Condition Doctor"
-  gravatarEmail = "office@sagami.one"
+  title = "Good Condition Doctor"
+#  gravatarEmail = "office@sagami.one"
+  email = "office@sagami.one"
+  picture= "img/symbol_mark_small.svg"
 
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-  url = "/index.html"
+  name = "ホーム"
+  pre = "<span class=\"sidebar-button-icon home-icon\" aria-hidden=\"true\"></span>"
+  url = "index.html"
+  
 [[menu.main]]
-  weight = 3
-  identifier = "greeting"
-  name = "ごあいさつ"
-  pre = "<i class=\"sidebar-button-icon fa fa-heart\" aria-hidden=\"true\"></i>"
-  url = "/posts/greeting/"
-
-[[menu.main]]
-  weight = 1
+  weight = 2
   identifier = "tadano"
   name = "当社の強み"
-  pre = "<i class=\"sidebar-button-icon fa fa-star\" aria-hidden=\"true\"></i>"
-  url = "/posts/tadano/"
-
-
-[[menu.links]]
+  pre = "<span class=\"sidebar-button-icon strength-icon\" aria-hidden=\"true\"></span>"
+  url = "posts/tadano/"
+  
+[[menu.main]]
   weight = 3
-  identifier = "github"
-  name = "研修講演"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/ToruSagami/public_me#%E8%AC%9B%E5%B8%AB%E5%AE%9F%E7%B8%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E8%AC%9B%E7%BF%92%E4%BC%9A%E5%AD%A6%E7%94%9F%E8%AC%9B%E7%BE%A9"
+  identifier = "profile"
+  name = "プロフィール"
+  pre = "<span class=\"sidebar-button-icon profile-icon\" aria-hidden=\"true\"></span>"
+  url = "posts/profile/"
 
+[[menu.main]]
+  weight = 4
+  identifier = "youtube"
+  name = "動画制作・企画・監修"
+  pre = "<span class=\"sidebar-button-icon video-icon\" aria-hidden=\"true\"></span>"
+  url = "posts/youtube/"
+  
+[[menu.main]]
+  weight = 5
+  identifier = "company"
+  name = "会社概要"
+  pre = "<span class=\"sidebar-button-icon company-icon\" aria-hidden=\"true\"></span>"
+  url = "posts/company/"
+
+[[menu.main]]
+  weight = 6
+  identifier = "contact"
+  name = "お問合わせ"
+  pre = "<span class=\"sidebar-button-icon contact-icon\" aria-hidden=\"true\"></span>"
+  url = "posts/contact/"
+  
+[[menu.links]]
+  weight = 7
+  identifier = "lecture"
+  name = "研修・講演"
+  pre = "<span class=\"sidebar-button-icon lecture-icon\" aria-hidden=\"true\"></span>"
+  url = "posts/lecture/"
+  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -1,9 +1,11 @@
----
-title: 研修 講演 さがみ産業医事務所 東京
+﻿---
+title: 研修・講演 さがみ産業医事務所東京
 author: Toru Sagami
 date: 2023-11-23
-weight: 20
+weight: 25
 showDate: false
+thumbnailImagePosition: left
+thumbnailImage: img/lecture_icon_big.svg
 ---
 
 ## 講師実績（セミナー・講習会・学生講義）
@@ -27,7 +29,7 @@ showDate: false
 
 
 <!-- _class: small -->
-![bg right:19%](https://images.unsplash.com/photo-1593073862407-a3ce22748763?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
+![bg right:19%](https://images.unsplash.com/photo-1593073862407-a3ce22748763?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=75)
 
 ## 学生向け（公衆衛生学講義） 
 | 回  | テーマ                                                                                                                                                                                                                                  |
@@ -40,16 +42,16 @@ showDate: false
 | 6   | [健康教育・ヘルスプロモーション](https://github.com/ToruSagami/public_me/blob/main/kango/6-%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf) |
 | 7   | [社会と健康](https://github.com/ToruSagami/public_me/blob/main/kango/7-%E7%A4%BE%E4%BC%9A%E3%81%A8%E5%81%A5%E5%BA%B7.pdf)                                                                                                               |
 
-![bg right:45%](https://images.unsplash.com/photo-1585031766793-acdf67eef684?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=80)
+![bg right:45%](https://images.unsplash.com/photo-1585031766793-acdf67eef684?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=75)
 
 
 ## YouTube :arrow_forward: はじめました 
 
 - [おクスリちゃんねる💊医者も知らない新常識🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)
 
-![bg right:30% 120%](./asset/QR_yt_okusuri_2022-09-11.png)
+![bg right:30% 120%](../asset/QR_yt_okusuri_2022-09-11.png)
 
-![right vertical fit](./asset/yasasii_kikime-canva.png)
+![right vertical fit](../asset/yasasii_kikime-canva.webp)
 
 ## [おクスリちゃんねる🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)コンテンツ例：あなたはクスリ🎵笑える？ 
 <!-- _backgroundColor: lightyellow -->

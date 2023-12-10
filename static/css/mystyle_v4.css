@@ -1,0 +1,209 @@
+/* sidebar author picture */
+@media only screen and (max-width: 767px) {
+#sidebar .sidebar-profile-picture {
+    content: url("../img/symbol_mark.svg");
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+#sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture {
+    content: url("../img/symbol_mark_small.svg");
+    }
+}
+@media only screen and (min-width: 1024px) {
+#sidebar .sidebar-profile-picture {
+    content: url("../img/symbol_mark.svg");
+    }
+}
+#sidebar .sidebar-profile-name {
+    content: url("../img/logotype.png");
+    width: 75%;
+}
+
+/* #about */
+.about-profile-picture {
+    content: url("../img/symbol_mark.svg");
+}
+/* end author picture*/
+
+/*サイドバー字の色　sidebar colours*/
+#sidebar .sidebar-profile .sidebar-profile-name 
+{
+    color: #000000;
+}
+#sidebar .sidebar-button-line
+{
+    color: #000000;
+}
+
+#sidebar .sidebar-button-line:hover{
+    color: #ff0000;
+    transition: 1s;
+}
+
+#sidebar .sidebar-button-line.active{
+    color: #ff0000;
+}
+/*sidebar colours end*/
+
+
+
+/*フォント  fonts*/
+*, p, h1, h2, h3, h4, h5, h6 { 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ','Meiryo','ＭＳ Ｐゴシック',sans-serif; }
+/*fonts end*/
+
+
+
+/*スマートフォンレイアウト postshorten for smartphone*/
+@media only screen and (max-width: 479px) {
+.postShorten .postShorten-thumbnailimg {
+    display: block;
+ }
+}
+.postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg{float:right;margin:5px 0 30px 15px}.postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden}.postShorten.postShorten--thumbnailimg-right .postShorten-wrap{float:left;width:calc(100% - 140px - 20px)}.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg{float:left;margin:5px 15px 30px 0}.postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img{display:block;width:140px;height:140px;object-fit:cover;overflow:hidden}.postShorten.postShorten--thumbnailimg-left .postShorten-wrap{float:right;width:calc(100% - 140px - 20px)}.postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg{margin-top:5px}.postShorten.postShorten--thumbnailimg-bottom .postShorten-wrap{display:block;width:100%}.postShorten.postShorten--thumbnailimg-bottom .postShorten-excerpt>p{margin-bottom:0}.postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg{display:block;width:100%;overflow:hidden;margin:15px 0 15px 
+0}.postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img{width:100%;height:auto;max-height:250px;object-fit:cover}
+/*postshorten end*/
+
+
+
+/*メイン上マージン main page top margin*/
+ .post {
+    top:15px;
+ }
+
+@media only screen and (min-width: 1024px){
+ .post{
+    top:22px;
+ }
+}
+/*top margin end*/
+
+
+
+/*サイドバー位置付け sidebar positioning tweaks*/
+#sidebar {
+    transition: 0.1s;
+}
+
+@media only screen and (min-width: 479) {
+#sidebar {
+    overflow:hidden;
+    }
+}
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+
+nav#sidebar[data-behavior="2"] {
+    width: 236px;
+    overflow: hidden;
+    transition: 0.1s;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+
+nav#sidebar[data-behavior="2"] {
+    width: 236px;
+    overflow: hidden;
+    margin-left: calc(50% - 625px); /* 132px 10% */
+    transition: 0.1s;
+  }
+
+    #main[data-behavior="2"] {
+    width: calc(50% + 375px);
+    transition: 0.1s;
+ }
+    .main-content-wrap {
+    margin-left: 112.5px;
+    transition: 0.1s;
+}
+    .post-action-nav {
+    margin-left: calc(50% - 375px);
+ }
+}
+#main[data-behavior="2"] {
+    transition: 0.1s;
+ }
+/*sidebar tweaks end*/
+
+
+
+/*サイドバーのプロファイルマージン profile name margin*/
+#sidebar[data-behavior="2"] h4.sidebar-profile-name {
+    margin-top: 0em;
+ }
+/*profile end*/
+
+
+
+/*サイドバーアイコン sidebar icons*/
+@font-face {
+  font-family: "AwesomerFont-v3";
+  src: url("../AwesomerFont-v3.woff") format('woff');
+}
+
+#sidebar[data-behavior="2"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-icon {
+
+    font-size: 4rem;
+    font-weight: 100;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    padding-top: 0;
+    vertical-align: middle;
+    font-family: "AwesomerFont-v3";
+    position:relative; left:-0.5rem;
+}
+
+
+
+.strength-icon:before {
+    content: "\0061";
+}
+
+.video-icon:before {
+    content: "\0062";
+}
+
+.profile-icon:before {
+    content: "\0063";
+}
+
+.company-icon:before {
+    content: "\0064";
+}
+
+.lecture-icon:before {
+    content: "\0065";
+}
+
+.home-icon:before {
+    content: "\0066";
+}
+
+.contact-icon:before {
+    content: "\0067";
+}
+/*icons end*/
+
+
+
+/*シェアボトンを隠す hide share button*/
+a.post-action-btn.btn.btn--default.btn-open-shareoptions {
+    display: none;
+}
+/*share button end*/
+
+/* 線色 lines color*/
+.postShorten-group .postShorten {
+ border-bottom-color: rgb(160, 160, 160);
+ border-bottom-width: 1px;
+}
+.without_line article.postShorten.postShorten--thumbnailimg-left {
+ border-bottom-color: white !important;
+ border-bottom-width: 0px !important;
+}
+/* end lines colour */
+

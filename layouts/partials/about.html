@@ -1,0 +1,26 @@
+<div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    {{ with ($.Scratch.Get "authorPicture") }}
+      <img id="about-card-picture" class="about-profile-picture" />
+    {{ end }}
+    <h4 id="about-card-name">{{ .Site.Author.title }}</h4>
+    {{ with .Site.Author.name }}  
+      <div id="about-card-bio">{{ . | markdownify }}</div> 
+    {{ end }}
+    {{ with .Site.Author.slogan }}
+      <div id="about-card-job">
+        {{ . | markdownify }}
+      </div>
+    {{ end }} 
+    {{ with .Site.Author.location }}
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        {{ . }}
+      </div>
+    {{ end }}
+  </div>
+</div>

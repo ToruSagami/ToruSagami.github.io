@@ -1,8 +1,10 @@
----
-title: 会社概要 「みんなの健康を考える」産業医 合同会社さがみ産業医事務所 
+﻿---
+title: 会社概要 
 date: 2023-03-28
 weight: 20
 showDate: false
+thumbnailImagePosition: left
+thumbnailImage: img/company_icon_big.svg
 ---
 
 
@@ -20,4 +22,4 @@ showDate: false
 |                   | 医療・健康関連マーケティング                                                         |
 |                   | データ分析に関する企画・受託                                                         |
 
-![](https://images.unsplash.com/photo-1497294815431-9365093b7331)
+![](https://images.unsplash.com/photo-1497294815431-9365093b7331?q=75&w=900&auto=format&fit=crop)

@@ -1,8 +1,11 @@
----
-title: 代表社員 プロフィール 「みんなの健康を考える」産業医
+﻿---
+title: 代表社員 プロフィール
 date: 2023-04-01
-weight: 19
+weight: 5
 showDate: false
+thumbnailImagePosition: left
+thumbnailImage: img/profile_icon_big.svg
+summary: Good Condition Doctor ✨ 略歴 放射線診断専門医であり、大学病院での臨床経験を有する。国立がん研究センターで全国がん登録の研究員としてデータベース研究
 ---
 
 ## Good Condition Doctor :sparkles:
@@ -28,4 +31,4 @@ showDate: false
 ### 日本をGood ConditionにするDoctor
 
 
-![](https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+![](https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=75)
