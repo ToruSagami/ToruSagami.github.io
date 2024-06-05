@@ -31,4 +31,14 @@ summary: Good Condition Doctor ✨ 略歴 放射線診断専門医であり、�
 ### 日本をGood ConditionにするDoctor
 
 
+### papers/論文
+
+- Sato S, Arai S, Kato K, Yoshida K, Iwabuchi N, Sagami T, Tanaka M. Effects of Bifidobacterium longum BB536 and Bifidobacterium breve MCC1274 on Body Composition in Normal and Overweight Adults in Randomized Placebo-Controlled Study. Nutrients. 2024 Mar 13;16(6):815. doi: 10.3390/nu16060815. PMID: 38542727; PMCID: PMC10974859. [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10974859/pdf/nutrients-16-00815.pdf)
+
+- Okada K, Takami D, Makizaki Y, Tanaka Y, Nakajima S, Ohno H, Sagami T. Effects of Bifidobacterium longum CLA8013 on bowel movement improvement: a placebo-controlled, randomized, double-blind study. Biosci Microbiota Food Health. 2023;42(3):213-221. doi: 10.12938/bmfh.2022-066. Epub 2023 Apr 6. PMID: 37404567; PMCID: PMC10315193. [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10315193/pdf/bmfh-42-213.pdf)
+
+
+- 「ガルシニアインディカ抽出物含有食品摂取が肝機能に与える影響―プラセボ対照ランダム化二重盲検並行群間比較試験―」 薬理と治療 Volume 51, Issue 5, 703 - 709 (2023) Jpn Pharmacol Ther　2023　51（5）703-9
+
+
 ![](https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=75)
