@@ -4,7 +4,7 @@ date: 2024-06-01
 weight: 999
 showDate: false
 thumbnailImagePosition: left
-thumbnailImage: img/shoppingbag_icon_big.svg
+thumbnailImage: img/profile_icon_big.svg
 ---
 
 
