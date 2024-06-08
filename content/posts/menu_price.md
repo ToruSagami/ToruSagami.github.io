@@ -1,4 +1,13 @@
-# 合同会社さがみ産業医事務所 サービスメニュー 2024年1月～
+---
+title: 合同会社さがみ産業医事務所 サービスメニュー
+date: 2024-06-01
+weight: 22
+showDate: false
+thumbnailImagePosition: left
+thumbnailImage: img/contact_icon_big.svg
+---
+
+# 合同会社さがみ産業医事務所 サービスメニュー <BR>2024年1月～
 
 
 | カテゴリ             | 商品名                        | 料金                   | 概要                                                                               |
