@@ -5,7 +5,7 @@ enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-paginate = 7
+paginate = 6
 
 [permalinks]
   post = "/:year/:month/:day/"
@@ -35,7 +35,7 @@ paginate = 7
 
 [author]
   name = "さがみ産業医事務所"
-  slogan = "東京 メンタル対応"
+  slogan = "働くすべての人が健康のスキル・知識を身に着けて活躍する社会の実現"
   location = "Tokyo, Japan"
   title = "Good Condition Doctor"
 #  gravatarEmail = "office@sagami.one"
