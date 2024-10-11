@@ -1,11 +1,11 @@
 baseURL = "https://sagami.one/" #
 languageCode = 'ja'
-title = 'さがみ産業医事務所'  # さがみ産業医事務所 | 魅力ある組織を作る産業医
+title = 'さがみ産業医事務所'  # さがみ産業医事務所 | 東京
 enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-paginate = 6
+paginate = 7
 
 [permalinks]
   post = "/:year/:month/:day/"
@@ -20,7 +20,7 @@ paginate = 6
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
-	keywords = ['産業医', '東京', '労働衛生コンサルタント', '専門']
+	keywords = ['産業医', '東京', '労働衛生コンサルタント', 'メンタル', 'ストレスチェック', '集団分析']
   favicon = "img/favicon.png"
   
   googletagID = 'G-0R60H25J3D'
@@ -35,7 +35,7 @@ paginate = 6
 
 [author]
   name = "さがみ産業医事務所"
-  slogan = "魅力ある組織を作る産業医"
+  slogan = "東京 メンタル対応"
   location = "Tokyo, Japan"
   title = "Good Condition Doctor"
 #  gravatarEmail = "office@sagami.one"
