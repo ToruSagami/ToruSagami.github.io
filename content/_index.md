@@ -4,6 +4,7 @@ date: 2024-10-11
 showDate: false
 ---
 
+![demo](/img/tytle_maru-go.svg)
 日本の産業医をアップデート！:two_hearts:
 
 産業医はヘルスケア分野で企業・従業員をサポートするための専門職です。
