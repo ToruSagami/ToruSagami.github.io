@@ -1,11 +1,12 @@
 ﻿---
-title: 研修・講演 さがみ産業医事務所東京
+title: 研修・講演 さがみ産業医事務所
 author: Toru Sagami
 date: 2023-11-23
 weight: 25
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/lecture_icon_big.svg
+summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 ---
 
 # 講師実績（セミナー・講習会・学生講義）<a id="general"></a>

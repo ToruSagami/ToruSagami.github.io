@@ -5,7 +5,7 @@ weight: 5
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/profile_icon_big.svg
-summary: Good Condition Doctor ✨ 略歴 放射線診断専門医であり、大学病院での臨床経験を有する。国立がん研究センターで全国がん登録の研究員としてデータベース研究
+summary: "医師・放射線診断専門医・労働衛生コンサルタント<BR>東京大学大学院医学系研究科公共健康医学専攻修了"
 ---
 
 ## Good Condition Doctor :sparkles:

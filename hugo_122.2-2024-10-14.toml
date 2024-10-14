@@ -5,10 +5,10 @@ enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-summaryLength = 0
+SummaryLength = 0
 
 [pagination]
-  disableAliases = true
+  disableAliases = false
   pagerSize = 6
   path = 'page'
 

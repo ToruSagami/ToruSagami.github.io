@@ -5,6 +5,7 @@ weight: 20
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/company_icon_big.svg
+summary: '働くすべての人が健康の知識・スキルを身につけて活躍する社会の実現✨️'
 ---
 
 

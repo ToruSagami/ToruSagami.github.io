@@ -5,6 +5,7 @@ weight: 999
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/profile_icon_big.svg
+summary: '当社のメニューを詳しくお伝えします！'
 ---
 
 

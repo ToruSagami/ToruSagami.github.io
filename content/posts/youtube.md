@@ -5,6 +5,7 @@ weight: 17
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/movie_icon_big.svg
+summary: すぐ役立つ！楽しい動画・レクチャーを企画・制作・監修
 ---
 
 ### サンプル動画 **YouTube** 限定公開中
