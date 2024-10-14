@@ -10,6 +10,10 @@ summary: "医師・放射線診断専門医・労働衛生コンサルタント<
 
 ## Good Condition Doctor :sparkles:
 
+{{< youtube 
+id="8C5tWrdIEvA" title="30秒でわかる！さがみ産業医事務所" start="0" end="30" autoplay="true" loop="true">}}
+
+
 ### 略歴
 - 放射線診断専門医であり、大学病院での臨床経験を有する。国立がん研究センターで全国がん登録の研究員としてデータベース研究を経験。
 - 非製造業の専属産業医を経て独立。メンタルヘルス対応、健康経営の施策立案や従業員のヘルスリテラシー向上を目的とする研修の企画・実施に携わる。
@@ -41,4 +45,3 @@ summary: "医師・放射線診断専門医・労働衛生コンサルタント<
 - 「ガルシニアインディカ抽出物含有食品摂取が肝機能に与える影響―プラセボ対照ランダム化二重盲検並行群間比較試験―」 薬理と治療 Volume 51, Issue 5, 703 - 709 (2023) Jpn Pharmacol Ther　2023　51（5）703-9
 
 
-![](https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=75)
