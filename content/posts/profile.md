@@ -11,12 +11,7 @@ summary: "医師・放射線診断専門医・労働衛生コンサルタント<
 ## Good Condition Doctor :sparkles:
 
 {{< youtube 
-id="8C5tWrdIEvA" title="30秒でわかる！さがみ産業医事務所" start="0" end="30" autoplay="true" loop="true">}}
-
-0.126.1
-
-{{< youtube 
-id=8C5tWrdIEvA start=0 end=30 loading=lazy autoplay=true loop=true>}}
+id="8C5tWrdIEvA" start="0" end="30" loading="lazy" autoplay="true" loop="true">}}
 
 
 ### 略歴
