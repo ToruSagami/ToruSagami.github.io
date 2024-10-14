@@ -13,6 +13,11 @@ summary: "医師・放射線診断専門医・労働衛生コンサルタント<
 {{< youtube 
 id="8C5tWrdIEvA" title="30秒でわかる！さがみ産業医事務所" start="0" end="30" autoplay="true" loop="true">}}
 
+0.126.1
+
+{{< youtube 
+id=8C5tWrdIEvA start=0 end=30 loading=lazy autoplay=true loop=true>}}
+
 
 ### 略歴
 - 放射線診断専門医であり、大学病院での臨床経験を有する。国立がん研究センターで全国がん登録の研究員としてデータベース研究を経験。
