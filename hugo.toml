@@ -1,6 +1,6 @@
 baseURL = "https://sagami.one/" #
 languageCode = 'ja'
-title = 'さがみ産業医事務所'  # さがみ産業医事務所 | 東京
+title = 'さがみ産業医事務所 | メンタル・フィジカル対応可能'  # さがみ産業医事務所 | 東京
 enableEmoji = true
 theme = "hugo-tranquilpeak-theme"
 defaultContentLanguage = "ja"
