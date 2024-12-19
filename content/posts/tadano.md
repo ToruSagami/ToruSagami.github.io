@@ -5,7 +5,7 @@ weight: 2
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/strength_icon_big.svg
-summary: '臨床医の経験＋専属産業医の実績 ＝ 役立つ産業医'
+summary: '臨床医＋専属産業医の経験 ＝ メンタル＋フィジカル対応可'
 ---
 
 ## メンタル・フィジカル 両方対応
