@@ -37,7 +37,7 @@ summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 
 | 実施   | 医師・産業医・専門職向け                                                                                                                                   |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026年 | [最近の労働安全衛生法令の改定と熱中症対策について](https://torusagami.github.io/public_me/2026/2026-02-28_sangyoui_heat_stroke.marp.html)                      |
+| 2026年 | [最近の労働安全衛生法令の改定と熱中症対策について](https://sagami.one/public_me/2026/2026-02-28_sangyoui_heat_stroke.html)                      |
 | 2025年 | [産業医活動の実際（頼られる産業医を目指して）](https://torusagami.github.io/public_me/2025/2025-02-09_sangyoui_tayorareru.marp.html)                       |
 | 2024年 | [AI時代に取り残されない！<BR>専門職に必要な「大人」の学びとは？](https://sagami.one/public_me/2024/2024-09-11_sangyoui_torinokosarenai.marp.html)          |
 | 2023年 | [産業医の学び直し<BR>～ヒト・職場の健康資本・健康資本投資とリスキリング～](https://torusagami.github.io/public_me/2023/sangyoui_manabinaosi_2023.marp.pdf) |
