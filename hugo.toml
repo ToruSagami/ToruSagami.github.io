@@ -27,7 +27,8 @@ paginate = 6
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
-	keywords = ['産業医', '東京', '労働衛生コンサルタント', 'メンタル', 'ストレスチェック', '集団分析', 'フィジカル', '健康経営']
+	keywords = ['産業医', '東京', '労働衛生コンサルタント', 'メンタル', 'ストレスチェック', '集団分析', 'フィジカル', '健康経営', '研修', '講演', '動画制作', '監修', '事後措置','就業判定','メンタル面談','長時間面談','職場環境改善'
+  ]
   favicon = "img/favicon.png"
   
   googletagID = 'G-0R60H25J3D'
