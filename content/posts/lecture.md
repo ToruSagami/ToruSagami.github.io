@@ -18,7 +18,8 @@ summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 <!-- _class: small  -->
 | 実施   | 一般・人事総務労務担当者向け                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026年 | 『なんとなく教える』を卒業するための教え方講座|                                         
+| 2026年 | 『なんとなく教える』を卒業するための教え方講座|
+| 2026年 | 医者から聞く、自分で作る定年後のレシピ！生きがいは薬より効く|                        
 | 2026年 | 努力か。才能か。まずは、体調だ。新人社員が知っておきたいコンディショニングの秘密！                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 2026年 | 定年後に元気な人が楽しみながらやっていること！                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 2026年 | マルチステージ時代を楽しむためのカラダメンテナンス術！<BR>ボディーパーツ編                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -67,7 +68,6 @@ summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 
 
 <!-- _class: small -->
-![bg right:19%](https://images.unsplash.com/photo-1593073862407-a3ce22748763?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=75)
 
 # 学生向け（公衆衛生学講義） <a id="kango"></a>
 <!-- _class: small  -->
@@ -75,18 +75,16 @@ summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 
 | 回  | テーマ                                                                                                                                                                                                                                  |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [地域保健と保健統計](https://github.com/ToruSagami/public_me/blob/main/kango/1-%E5%9C%B0%E5%9F%9F%E4%BF%9D%E5%81%A5%E3%81%A8%E4%BF%9D%E5%81%A5%E7%B5%B1%E8%A8%88.pdf)                                                                   |
-| 2   | [母子保健と学校保健](https://github.com/ToruSagami/public_me/blob/main/kango/2-%E6%AF%8D%E5%AD%90%E4%BF%9D%E5%81%A5%E3%81%A8%E5%AD%A6%E6%A0%A1%E4%BF%9D%E5%81%A5.pdf)                                                                   |
-| 3   | [難病対策と感染症対策](https://github.com/ToruSagami/public_me/blob/main/kango/3-%E9%9B%A3%E7%97%85%E5%AF%BE%E7%AD%96%E3%81%A8%E6%84%9F%E6%9F%93%E7%97%87%E5%AF%BE%E7%AD%96.pdf)                                                        |
-| 4   | [働く人の健康とメンタルヘルス](https://github.com/ToruSagami/public_me/blob/main/kango/4-%E5%83%8D%E3%81%8F%E4%BA%BA%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A8%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9.pdf)            |
-| 5   | [生活習慣病と介護・認知症の予防](https://github.com/ToruSagami/public_me/blob/main/kango/5-%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85%E3%81%A8%E4%BB%8B%E8%AD%B7%E3%83%BB%E8%AA%8D%E7%9F%A5%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2.pdf) |
-| 6   | [健康教育・ヘルスプロモーション](https://github.com/ToruSagami/public_me/blob/main/kango/6-%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf) |
-| 7   | [社会と健康](https://github.com/ToruSagami/public_me/blob/main/kango/7-%E7%A4%BE%E4%BC%9A%E3%81%A8%E5%81%A5%E5%BA%B7.pdf)                                                                                                               |
-
-![bg right:45%](https://images.unsplash.com/photo-1585031766793-acdf67eef684?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=75)
+| 1   | [地域保健と保健統計](https://torusagami.github.io/public_me/kango/1-%E5%9C%B0%E5%9F%9F%E4%BF%9D%E5%81%A5%E3%81%A8%E4%BF%9D%E5%81%A5%E7%B5%B1%E8%A8%88.pdf)                                                                   |
+| 2   | [母子保健と学校保健](https://torusagami.github.io/public_me/kango/2-%E6%AF%8D%E5%AD%90%E4%BF%9D%E5%81%A5%E3%81%A8%E5%AD%A6%E6%A0%A1%E4%BF%9D%E5%81%A5.pdf)                                                                   |
+| 3   | [難病対策と感染症対策](https://torusagami.github.io/public_me/kango/3-%E9%9B%A3%E7%97%85%E5%AF%BE%E7%AD%96%E3%81%A8%E6%84%9F%E6%9F%93%E7%97%87%E5%AF%BE%E7%AD%96.pdf)                                                        |
+| 4   | [働く人の健康とメンタルヘルス](https://torusagami.github.io/public_me/kango/4-%E5%83%8D%E3%81%8F%E4%BA%BA%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A8%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9.pdf)            |
+| 5   | [生活習慣病と介護・認知症の予防](https://torusagami.github.io/public_me/kango/5-%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85%E3%81%A8%E4%BB%8B%E8%AD%B7%E3%83%BB%E8%AA%8D%E7%9F%A5%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2.pdf) |
+| 6   | [健康教育・ヘルスプロモーション](https://torusagami.github.io/public_me/kango/6-%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf) |
+| 7   | [社会と健康](https://torusagami.github.io/public_me/kango/7-%E7%A4%BE%E4%BC%9A%E3%81%A8%E5%81%A5%E5%BA%B7.pdf)                                                                                                               |
 
 
-# YouTube :arrow_forward: はじめました 
+# YouTube :arrow_forward:  
 <!-- _class: small  -->
 
 - [おクスリちゃんねる💊医者も知らない新常識🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)
@@ -135,4 +133,3 @@ summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 - 「人と組織の健康度を高めて業績アップするセルフケア強化講座」
 - 「上司になる人が知っておきたい！部下のメンタル・フィジカル」
 - 「人生100年時代！データで見る！日本の健康課題」
-![bg right:13%](https://images.unsplash.com/photo-1560438718-eb61ede255eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60)
