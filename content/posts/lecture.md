@@ -1,13 +1,19 @@
 ﻿---
-title: 研修・講演 さがみ産業医事務所
+title: 研修・講演 （佐上徹）
 author: Toru Sagami
 date: 2023-11-23
 weight: 25
 showDate: false
 thumbnailImagePosition: left
 thumbnailImage: img/lecture_icon_big.svg
-summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
+summary: 'すぐ役立つ！満足度の高いコンテンツを提供中'
 ---
+
+# 電子書籍
+|年月|タイトル|対象読者|URL|
+|---|---|---|---|
+|2026年7月|パウダーからの卒業<BR>50歳代女性が元気になる頭皮アートメイク|一般|https://amzn.asia/d/057yuq1i|
+
 
 # 講師実績（セミナー・講習会・学生講義）
 
@@ -55,9 +61,9 @@ summary: 'すぐ役立つ！満足度の高いコンテンツをご提供可能'
 
 | 実施   | 医師・産業医・専門職向け                                                                                                                                   |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026年 | 開業医のための働き方改革・ワークエンゲージメント|
-| 2026年 | 産業医が知っておきたい難病と両立支援の知識|
-| 2026年 | [最近の労働安全衛生法令の改定と熱中症対策について](https://sagami.one/public_me/2026/2026-02-28_sangyoui_heat_stroke.html)                                 |
+| 2026年 | 開業医のための働き方改革・ワークエンゲージメント<BR>新宿区医師会主催|
+| 2026年 | 産業医が知っておきたい難病と両立支援の知識<BR>東京都医師会主催|
+| 2026年 | [最近の労働安全衛生法令の改定と熱中症対策について<BR>中野区医師会主催](https://sagami.one/public_me/2026/2026-02-28_sangyoui_heat_stroke.html)                                 |
 | 2025年 | [産業医活動の実際（頼られる産業医を目指して）](https://torusagami.github.io/public_me/2025/2025-02-09_sangyoui_tayorareru.marp.html)                       |
 | 2024年 | [AI時代に取り残されない！<BR>専門職に必要な「大人」の学びとは？](https://sagami.one/public_me/2024/2024-09-11_sangyoui_torinokosarenai.marp.html)          |
 | 2023年 | [産業医の学び直し<BR>～ヒト・職場の健康資本・健康資本投資とリスキリング～](https://torusagami.github.io/public_me/2023/sangyoui_manabinaosi_2023.marp.pdf) |
