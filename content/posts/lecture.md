@@ -12,7 +12,7 @@ summary: 'すぐ役立つ！満足度の高いコンテンツを提供中'
 # 電子書籍
 |年月|タイトル|対象読者|URL|
 |---|---|---|---|
-|2026年8月|医師のための週末Kindle出版術<BR>|医師||
+|2026年8月|医師のための週末Kindle出版術<BR>AI時代の新しいアウトプット戦略|医師|[https://amzn.asia/d/05WLvLG2](https://amzn.asia/d/05WLvLG2)|
 |2026年7月|パウダーからの卒業<BR>50歳代女性が元気になる頭皮アートメイク|一般|[https://amzn.asia/d/057yuq1i](https://amzn.asia/d/057yuq1i)|
 
 
